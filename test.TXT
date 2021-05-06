@@ -1,3 +1,6 @@
 index
+<<<<<<< HEAD
 text modif Contenu
 text modifier nouveau contenu
+=======
+>>>>>>> a8a549d214b459592f089622ae0a4faea0609f5b
